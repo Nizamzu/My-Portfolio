@@ -1,0 +1,225 @@
+.bod{
+  margin: 0;
+}
+.container1{
+  background-color: #E0D8B0;
+  height: 639px;
+}
+.head{
+  background-color: #E0D8B0;
+  height: 110px;
+
+}
+.temp{
+  position: relative;
+  background-color: #E0D8B0;
+  height: 100px;
+}
+.page1{
+  height: 529;
+  background-color: #E0D8B0;
+}
+.img1{
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 200px;
+  top: 22px;
+}
+.link1{
+  text-decoration: none;
+  color: black;
+  position: absolute;
+  right: 250px;
+  top: 30px;
+  font-size: 25px;
+  font-family: 'Tapestry', cursive;
+}
+.link2{
+  text-decoration: none;
+  color: black;
+  position: absolute;
+  right: 100px;
+  top: 30px;
+  font-size: 25px;
+  font-family: 'Tapestry', cursive;
+}
+h1{
+  text-align: center;
+  margin: 0;
+  font-family: 'Arizonia', cursive;
+  font-size: 100px;
+  left: 500px;
+}
+.para1{
+  font-family: 'Arizonia', cursive;
+  text-align: center;
+  font-size: 30px;
+}
+.mount1{
+  width: 500px;
+  top: 529;
+  left: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.About{
+  background-color: #E8F9FD;
+  height: 900px;
+}
+.love{
+  display: block;
+  margin: 0 auto;
+}
+.head2{
+  text-align: center;
+  font-family: 'My Soul', cursive;
+  font-size: 50px;
+}
+.para2{
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #006E7F;
+  border-width: 5px;
+  width: 30%;
+}
+.skill{
+  background-color: #82A284;
+  height: 1300px;
+}
+.do{
+  margin: 0;
+  font-family: 'My Soul', cursive;
+  text-align: center;
+  font-size: 50px;
+}
+.workpen{
+  display: block;
+  margin: 0 auto;
+}
+.hacker{
+  width: 200px;
+  height: 200px;
+  margin: 0 200px;
+}
+.pentest{
+  font-family: 'Tapestry', cursive;
+  margin: -160px 400px;
+  font-size: 35px;
+}
+.note1{
+  font-family: 'Amatic SC', cursive;
+  margin: 160px 400px;
+  font-size: 25px;
+}
+.designer{
+  height: 200px;
+  width: 200px;
+  margin: -90px 400px;
+}
+.modeler{
+  font-family: 'Tapestry', cursive;
+  margin: -60px 600px;
+  font-size: 35px;
+  width: 400px;
+}
+.note2{
+  font-family: 'Amatic SC', cursive;
+  margin: 60px 600px;
+  font-size: 25px;
+  width: 350px;
+}
+.dev{
+  width: 200px;
+  height: 200px;
+  margin: 0 200px;
+}
+.developer{
+  font-family: 'Tapestry', cursive;
+  margin: -160px 400px;
+  font-size: 35px;
+}
+.note3{
+  font-family: 'Amatic SC', cursive;
+  margin: 160px 400px;
+  font-size: 25px;
+}
+.contactme{
+  height: 900px;
+  background-color: #E8F9FD;
+}
+.helpu{
+  margin: 0;
+  font-family: 'My Soul', cursive;
+  text-align: center;
+  font-size: 50px;
+}
+.conimg{
+  display: block;
+  margin: 0 auto;
+}
+.note4{
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  font-size: 35px;
+}
+.note5{
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  font-size: 30px;
+}
+.button{
+  border-radius: 4px;
+  height: 50px;
+  width: 150px;
+  border: 0;
+  background-color: green;
+}
+.link3{
+  text-decoration: none;
+  font-family: 'Tapestry', cursive;
+  font-size: 25px;
+  color: black;
+}
+.wrapper {
+    text-align: center;
+}
+.last{
+  height: 150px;
+  background-color: #006E7F;
+  position: relative;
+}
+.instagram{
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Arizonia', cursive;
+  color: black;
+  font-size: 25px;
+}
+.facebook{
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Arizonia', cursive;
+  color: black;
+  font-size: 25px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.twitter{
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Arizonia', cursive;
+  color: black;
+  font-size: 25px;
+}
+.links{
+  text-align: center;
+}
+.finish{
+  margin: 0;
+}
